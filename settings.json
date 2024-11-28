@@ -1,0 +1,11 @@
+{
+  "lsp": {
+    "gopls": {
+      "gofumpt": true,
+      "initialization_options": {
+        "usePlaceholders": false,
+        "gofumpt": true
+      }
+    }
+  }
+}
